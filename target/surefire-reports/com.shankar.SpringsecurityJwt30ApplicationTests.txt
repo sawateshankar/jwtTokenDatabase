@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.shankar.SpringsecurityJwt30ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.005 s - in com.shankar.SpringsecurityJwt30ApplicationTests
